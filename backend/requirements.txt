@@ -1,0 +1,6 @@
+DATABASE_URL=sqlite:///jobs.db
+flask
+flask-sqlalchemy
+flask-cors
+python-dotenv
+selenium
